@@ -3,3 +3,19 @@ html,body,#app{
 }
 *{margin: 0px;
 padding: 0px;}
+/* 面包屑导航下边距 */
+.el-breadcrumb{
+  margin-bottom: 20px;
+}
+/* 卡片阴影 */
+.el-card{
+  box-shadow: 0 0px 5px 0 rgba(0,0,0,.1)!important;
+}
+/* 表格上边距 */
+.el-table{
+  margin-top: 20px;
+}
+/* 分页上边距 */
+.el-pagination{
+  margin-top: 20px;
+}
