@@ -1,6 +1,9 @@
 html,body,#app{
   height: 100%;
 }
+#app{
+  min-width: 1200px;
+}
 *{margin: 0px;
 padding: 0px;}
 /* 面包屑导航下边距 */
