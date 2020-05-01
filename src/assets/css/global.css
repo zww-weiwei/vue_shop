@@ -22,3 +22,7 @@ padding: 0px;}
 .el-pagination{
   margin-top: 20px;
 }
+/* 富文本编辑器最小高度 */
+.ql-editor{
+  min-height: 300px;
+}
